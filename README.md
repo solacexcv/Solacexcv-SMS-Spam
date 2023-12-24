@@ -30,7 +30,7 @@
 * Termux App
 
 ### LANGUAGE 
-* Python
+* Shell
 
 
 ## Support
