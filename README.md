@@ -22,6 +22,10 @@
 <h4 align="center"> SMS-Spam is the tool can flood some one sms or number, this can spam sms This Tool is tested to Philippines i dont known if this tool is working to other country.</h4>
 
 ### INSTALLATION [ TERMUX ]
+* apt install -y
+* apt update -y
+* apt upgrade -y
+* pkg install git
 * git clone https://github.com/solacexcv/SMS-Spam
 * cd SMS-Spam
 * chmod +x sms.sh
