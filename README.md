@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/solacexcv/SMS-Spamer/banner.png", width="800", height="800">
+<img src="https://raw.githubusercontent.com/solacexcv/SMS-Spam/main/banner.png?token=GHSAT0AAAAAACL6W4TZBASAQT3LYQZDWKV2ZMIEBZQ", width="800", height="800">
 </p>
 <h1 align="center"> SMS-Spam</h1>
 <h4 align="center"> SMS-Spam is the tool can flood some one sms or number, this can spam sms This Tool is tested to Philippines i dont known if this tool is working to other country.</h4>
@@ -25,6 +25,7 @@
 * git clone https://github.com/solacexcv/SMS-Spam
 * cd SMS-Spam
 * chmod +x sms.sh
+* bash sms.sh
 
 ### TESTED ON FOLLOWING
 * Termux App
