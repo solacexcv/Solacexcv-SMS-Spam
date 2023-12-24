@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/solacexcv/NGL-SPAM/main/banner.png?token=GHSAT0AAAAAACL2J3BU32KBJKYC5VTU32TMZMDOMZA", width="800", height="800">
+<img src="https://raw.githubusercontent.com/solacexcv/SMS-Spamer/banner.png", width="800", height="800">
 </p>
 <h1 align="center"> SMS-Spam</h1>
 <h4 align="center"> SMS-Spam is the tool can flood some one sms or number, this can spam sms This Tool is tested to Philippines i dont known if this tool is working to other country.</h4>
