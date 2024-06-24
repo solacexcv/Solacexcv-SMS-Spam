@@ -1,12 +1,12 @@
-<h1 align="center">SMS-Spam</h1>
+<h1 align="center">Solacexcv-SMS-Spam</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-0.1-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/solacexcv/SMS-Spam?style=for-the-badge&color=orange">
-  <img src="https://img.shields.io/github/forks/solacexcv/SMS-Spam?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/watchers/solacexcv/SMS-Spam?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/issues/solacexcv/SMS-Spam?color=red&style=for-the-badge">
-  <img src="https://hits.dwyl.com/solacexcv/SMS-Spam.svg" width="140" height="28">
+  <img src="https://img.shields.io/github/stars/solacexcv/Solacexcv-SMS-Spam?style=for-the-badge&color=orange">
+  <img src="https://img.shields.io/github/forks/solacexcv/Solacexcv-SMS-Spam?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/watchers/solacexcv/Solacexcv-SMS-Spam?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/issues/solacexcv/Solacexcv-SMS-Spam?color=red&style=for-the-badge">
+  <img src="https://hits.dwyl.com/solacexcv/Solacexcv-SMS-Spam.svg" width="140" height="28">
 <br>
 <br>
   <img src="https://img.shields.io/badge/Author-solacexcv-purple?style=flat-square">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/solacexcv/SMS-Spam/main/banner.png?token=GHSAT0AAAAAACL6W4TZBASAQT3LYQZDWKV2ZMIEBZQ", width="800", height="800">
+<img src="https://raw.githubusercontent.com/solacexcv/Solacexcv-SMS-Spam/main/banner.png?token=GHSAT0AAAAAACL6W4TZBASAQT3LYQZDWKV2ZMIEBZQ", width="800", height="800">
 </p>
 <h1 align="center"> SMS-Spam</h1>
 <h4 align="center"> SMS-Spam is the tool can flood some one sms or number, this can spam sms This Tool is tested to Philippines i dont known if this tool is working to other country.</h4>
@@ -26,7 +26,7 @@
 * apt update -y
 * apt upgrade -y
 * pkg install git
-* git clone https://github.com/solacexcv/SMS-Spam
+* git clone https://github.com/solacexcv/Solacexcv-SMS-Spam
 * cd SMS-Spam
 * chmod +x sms.sh
 * bash sms.sh
@@ -52,4 +52,4 @@ If you find my work helpful and want to support me, consider making a donation. 
 
 - [![Telegram](https://img.shields.io/badge/Telegram-PHILIPKYS-indigo?style=for-the-badge&logo=telegram)](https://t.me/Philipkys)
 
-- [![Tiktok](https://img.shields.io/badge/Tiktok-Solacezr-orange?style=for-the-badge&logo=Tiktok)](https://www.tiktok.com/@solacezr?)
+- [![Tiktok](https://img.shields.io/badge/Tiktok-Solacezr-orange?style=for-the-badge&logo=Tiktok)](https://www.tiktok.com/@revupgt24?)
